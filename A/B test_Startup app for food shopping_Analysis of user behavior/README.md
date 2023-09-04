@@ -15,7 +15,7 @@
 - Product metrics
 - Statistical hypothesis testing
 
-# Conclusion
+## Conclusion
 This project explored the principles of event analytics. I studied the user journey from visiting the homepage to purchase through the sales funnel. Analysed the results of an A/B test of the introduction of new fonts. Gave recommendations to the marketing team.
 
 The sales funnel is as follows: 
