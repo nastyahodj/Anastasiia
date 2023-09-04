@@ -4,5 +4,5 @@
 
 | Project Name | Project Objective | Skills and tools |
 | :---         |     :---:         |          ---:    |
-| git status   | git status        | git status       |
-| git diff     | git diff          | git diff         |
+| Analytics of a startup that sells food products  | git status        | git status       |
+| Analytics of advertising campaigns for computer games    | git diff          | git diff         |
